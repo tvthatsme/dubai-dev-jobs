@@ -18,3 +18,5 @@ A curated list of companies who hire in Dubai. Inspired by this Reddit posting: 
 
 ## Contributing
 See something that is missing from this list? Stale link? Suggestions for improvement? Send me a pull request! Thanks 😎
+
+[![](https://ga-beacon.appspot.com/UA-116354229-1/)](https://github.com/igrigorik/ga-beacon)
