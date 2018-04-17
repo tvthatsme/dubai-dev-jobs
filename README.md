@@ -2,6 +2,7 @@
 A curated list of companies who hire in Dubai. Inspired by this Reddit posting: https://redd.it/85wul5
 
 ## Companies hiring
+- [Bayzat](https://www.bayzat.com/careers)
 - [Careem](https://jobs.jobvite.com/careem/search?l=Dubai+Basecamp&c=Engineering&q=)
 - [Consensys](https://new.consensys.net/careers/)
 - [dubizzle](https://www.joinolx.com/careers/search/uae/engineering)
