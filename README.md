@@ -7,7 +7,7 @@ A curated list of companies who hire in Dubai. Inspired by this Reddit posting: 
 - [Consensys](https://new.consensys.net/careers/)
 - [dubizzle](https://www.joinolx.com/careers/search/uae/engineering)
 - [Emaratech](https://ldd.tbe.taleo.net/ldd03/ats/careers/searchResults.jsp?org=EMARATECH&cws=1)
-- [Fetchr](https://fetchrs.workable.com/)
+- [Fetchr](https://fetchr.workable.com/)
 - [Namshi](https://tech.namshi.io/join-us/)
 - [Track24](https://www.track24.com/joinus/)
 - [Tribalscale](http://www.tribalscale.com/careers)
